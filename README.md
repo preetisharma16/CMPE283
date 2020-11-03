@@ -4,7 +4,7 @@ Its an individual assignment. All work is done by me: Priti Sharma(014561274)
 Setting Up the Environment
 1.	Running this assignment on Linux machine(400 GB hard disk space and 15 GB memory) with SVM virtualization features exposed and has AMD processor.
 
-![image 1](./tmp/svm.png?raw=true )
+![image 1](./temp/svm.png?raw=true )
 
 
 Building The Kernel 
