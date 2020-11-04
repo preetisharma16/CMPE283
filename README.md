@@ -9,7 +9,7 @@ Setting Up the Environment
 
      ![image 1](./temp/svm.png?raw=true )
 
-2. verify processor support for KVM.
+2. verify processor support for KVM, output should be “kvm-ok” and “KVM acceleration can be used”.
 
 ![image 1](./temp/kvm.png?raw=true )
 
